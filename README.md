@@ -1,2 +1,2 @@
 # _-RepositorioHenry-_
-Este es un repositorio de ejercicio del modulo 2 de henry
+Este es un proyecto de ejercicio del modulo 2 de henry de como clonarlo desde mi github a mi computadora
